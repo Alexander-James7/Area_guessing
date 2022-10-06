@@ -1,3 +1,6 @@
+# Created by: Alex James
+# Created on: 10/6/2022
+
 print("Let's guess the area of your rectangle")
 
 L =int(input("What is the length of your rectangle?: "))
@@ -15,4 +18,5 @@ if guess == a :
 else:
   print("Incorrect, the answer was " + str(a))
 # This line tell the user their guess is incorrect and gives them the real answer
+          
           
